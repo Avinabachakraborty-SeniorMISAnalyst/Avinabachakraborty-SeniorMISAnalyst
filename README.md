@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Avinaba Chakraborty 👋</h1>
 
 <p align="center">
-  <b>Senior MIS Analyst · BI & Data Analytics Professional · 16+ Years of Experience</b><br>
+  <b>Senior MIS Analyst · BI & Data Analytics Professional · 17+ Years of Experience</b><br>
   Kolkata, India
 </p>
 
