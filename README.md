@@ -16,7 +16,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a Senior MIS Analyst with over **16 years of experience** turning raw business data into clear, actionable insights. I specialise in building dashboards, automating reporting workflows, and helping organisations make faster, smarter decisions through data.
+I'm a Senior MIS Analyst with over **17 years of experience** turning raw business data into clear, actionable insights. I specialise in building dashboards, automating reporting workflows, and helping organisations make faster, smarter decisions through data.
 
 I work across the full analytics stack — from writing SQL queries and building ETL-style data pipelines in spreadsheets, to designing executive-level dashboards in Power BI, Tableau, and Looker Studio, to automating operational processes with Google Apps Script.
 
