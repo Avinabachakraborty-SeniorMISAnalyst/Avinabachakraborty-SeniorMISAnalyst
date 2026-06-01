@@ -40,7 +40,7 @@ I work across the full analytics stack — from writing SQL queries and building
 
 ## 📂 Featured Projects
 
-### 🔧 [Work Order Generator](https://github.com/AvinabaChakraborty-MIS/Work-Order-Generator)
+### 🔧 [Work Order Generator](https://github.com/Avinabachakraborty-SeniorMISAnalyst/Work-Order-Generator)
 A full-stack web application built with **Google Apps Script** that automates work order creation, management, and printing for a manufacturing company. Saves hours of manual effort weekly by replacing a paper-based process with a digital, form-driven workflow backed by Google Sheets and Drive.
 
 > `Google Apps Script` · `HTML` · `JavaScript` · `Google Sheets` · `Google Drive`
