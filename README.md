@@ -57,7 +57,7 @@ A role-based task management system with separate Director and Employee portals,
 ### 💰 [Salary Sheet Generator](https://github.com/Avinabachakraborty-SeniorMISAnalyst/Salary-Sheet-Generator)
 A Google Apps Script tool that auto-generates monthly salary sheets from a Master employee record — clearing attendance and leave columns, syncing salary components, and adding a custom HRA Tools menu to Google Sheets.
 
-> `Google Apps Script` · `JavaScript` · `Google Sheets` · `HR Automation`
+> `Google Apps Script` · `JavaScript` · `Google Sheets` · `HR Automation` · `HR Analytics`
 
 ---
 
