@@ -47,6 +47,13 @@ A full-stack web application built with **Google Apps Script** that automates wo
 
 ---
 
+### 📊 [Task Manager Web App](https://github.com/Avinabachakraborty-SeniorMISAnalyst/Task-Manager-Webapp)
+A role-based task management system with separate Director and Employee portals, automated email notifications, and a performance scoring dashboard — built entirely on Google Apps Script and Google Sheets.
+
+> `Google Apps Script` · `HTML` · `JavaScript` · `Google Sheets` · `Gmail API`
+
+---
+
 ## 📊 What I'm Working On
 
 - Building a **SQL query library** for common MIS and reporting use cases
